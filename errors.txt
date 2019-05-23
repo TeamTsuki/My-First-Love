@@ -1,0 +1,9 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 196: u'S' is not a keyword argument or valid child for the textbutton statement.
+    textbutton _("Quit") action Quit(confirm=False) text_size 40S
+                                                                 ^
+
+Ren'Py Version: Ren'Py 6.99.10.1227
